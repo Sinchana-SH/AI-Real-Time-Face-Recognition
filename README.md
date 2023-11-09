@@ -32,9 +32,11 @@ Mark Ruffalo
 Robert Downey Jr.
 Scarlett Johansson
 
+Dataset link: https://www.kaggle.com/datasets/rawatjitesh/avengers-face-recognition
 
 *Performance*
 The model performs with high accuracy, thanks to the DenseNet-136 architecture and careful training on the Avenger dataset.
+
 
 
 
